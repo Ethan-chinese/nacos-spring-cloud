@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: nacos-user-server
+  cloud:
+    nacos:
+      config:
+        server-addr: http://8.136.8.3:8848
+        file-extension: yaml
+      discovery:
+        server-addr: http://8.136.8.3:8848
+      username: nacos
+      password: Ethan_970311
+server:
+  port: 8201
+#feign:
+#  hystrix:
+#    enabled: true

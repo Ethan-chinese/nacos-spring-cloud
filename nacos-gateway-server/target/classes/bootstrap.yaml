@@ -1,0 +1,25 @@
+server:
+  port: 8301
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+spring:
+  application:
+    name: nacos-gateway-server
+  cloud:
+    nacos:
+      config:
+        server-addr: http://8.136.8.3:8848
+        file-extension: yaml
+      discovery:
+        server-addr: http://8.136.8.3:8848
+      username: nacos
+      password: Ethan_970311
+nacos:
+  gateway:
+    route:
+      config:
+        data-id: nacos-gateway-server.yaml
+        group: DEFAULT_GROUP
