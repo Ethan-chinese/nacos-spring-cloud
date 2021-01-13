@@ -11,10 +11,10 @@ spring:
   cloud:
     nacos:
       config:
-        server-addr: http://8.136.8.3:8848
+        server-addr: ${server-addr}
         file-extension: yaml
       discovery:
-        server-addr: http://8.136.8.3:8848
+        server-addr: ${server-addr}
       username: nacos
       password: Ethan_970311
 nacos:
