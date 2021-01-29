@@ -2,6 +2,7 @@ package com.sj.user.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.sj.user.feign.entity.UserBean;
+import org.apache.ibatis.annotations.Mapper;
 
 /**
  * @author sijia

@@ -1,5 +1,5 @@
 server:
-  port: 8301
+  port: 7000
 management:
   endpoints:
     web:
@@ -17,6 +17,7 @@ spring:
         server-addr: ${server-addr}:8848
       username: nacos
       password: Ethan_970311
+
 nacos:
   gateway:
     route:

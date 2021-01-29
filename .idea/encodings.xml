@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/nacos-admin-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-admin-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-gateway-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-gateway-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-order-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-order-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-order-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-product-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-product-feign/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-product-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-product-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-user-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-user-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-user-server/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

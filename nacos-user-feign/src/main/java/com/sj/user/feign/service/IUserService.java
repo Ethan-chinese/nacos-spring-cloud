@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestBody;
  * @desc ...
  * @date 2021-01-09 15:26:46
  */
-@FeignClient(value = "nacos-user-server", fallback = UserFallback.class)
+@FeignClient(value = "nacos-user-server", fallbackFactory = UserFallback.class)
 public interface IUserService {
 
     @PostMapping(value = "/getUser")

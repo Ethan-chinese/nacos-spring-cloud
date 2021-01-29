@@ -15,7 +15,7 @@ spring:
         dashboard: localhost:8080
       eager: true
 server:
-  port: 8202
+  port: 8101
 #feign:
 #  hystrix:
 #    enabled: true

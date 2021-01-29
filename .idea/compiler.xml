@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="nacos-user-feign" />
+        <module name="nacos-product-server" />
+        <module name="nacos-order-feign" />
+        <module name="nacos-admin-api" />
+        <module name="nacos-common" />
+        <module name="nacos-order-server" />
+        <module name="nacos-user-server" />
+        <module name="nacos-product-feign" />
+        <module name="nacos-gateway-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="nacos-admin-api" target="11" />
+      <module name="nacos-common" target="11" />
+      <module name="nacos-gateway-server" target="11" />
+      <module name="nacos-order-feign" target="11" />
+      <module name="nacos-order-server" target="11" />
+      <module name="nacos-product-feign" target="11" />
+      <module name="nacos-product-server" target="11" />
+      <module name="nacos-spring-cloud" target="11" />
+      <module name="nacos-user-feign" target="11" />
+      <module name="nacos-user-server" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

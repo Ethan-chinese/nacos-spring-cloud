@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nacos-admin-api/nacos-admin-api.iml" filepath="$PROJECT_DIR$/nacos-admin-api/nacos-admin-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-common/nacos-common.iml" filepath="$PROJECT_DIR$/nacos-common/nacos-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-gateway-server/nacos-gateway-server.iml" filepath="$PROJECT_DIR$/nacos-gateway-server/nacos-gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-order-feign/nacos-order-feign.iml" filepath="$PROJECT_DIR$/nacos-order-feign/nacos-order-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-order-server/nacos-order-server.iml" filepath="$PROJECT_DIR$/nacos-order-server/nacos-order-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-product-feign/nacos-product-feign.iml" filepath="$PROJECT_DIR$/nacos-product-feign/nacos-product-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-product-server/nacos-product-server.iml" filepath="$PROJECT_DIR$/nacos-product-server/nacos-product-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-spring-cloud.iml" filepath="$PROJECT_DIR$/nacos-spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-user-feign/nacos-user-feign.iml" filepath="$PROJECT_DIR$/nacos-user-feign/nacos-user-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-user-server/nacos-user-server.iml" filepath="$PROJECT_DIR$/nacos-user-server/nacos-user-server.iml" />
+    </modules>
+  </component>
+</project>

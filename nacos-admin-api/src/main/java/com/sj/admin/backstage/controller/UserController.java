@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @date 2021-01-09 15:08:51
  */
 @RestController
-@RequestMapping(value = "admin")
+@RequestMapping(value = "user")
 public class UserController {
 
     private final IUserService userService;

@@ -14,6 +14,10 @@
         <module>nacos-common</module>
         <module>nacos-user-feign</module>
         <module>nacos-admin-api</module>
+        <module>nacos-product-feign</module>
+        <module>nacos-product-server</module>
+        <module>nacos-order-feign</module>
+        <module>nacos-order-server</module>
     </modules>
 
     <properties>
